@@ -39,7 +39,6 @@ class Session: SessionStub {
         self.systemPrompt = systemPrompt
     }
     
-    // Factory: load MLX by id (awaitable like MLX examples)
     static func makeMLX(id: String, systemPrompt: String? = nil) async throws -> Session {
         let mdl = try await loadModel(id: id)
         return Session(mlxModel: mdl, systemPrompt: systemPrompt)
