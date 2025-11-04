@@ -22,9 +22,9 @@ The experiment evaluates how well each model can:
 
 | File | Description |
 |------|--------------|
-| **`main.swift`** | Main file for running model comparisons. Builds prompt variants (minimal, normal, verbose) and initialises chat sessions with Apple SLM, Llama 3.2, and Gemma 2. Iteratively re-prompts models until a valid output is achieved or retries are exhausted. |
-| **`llmclass.swift`** | Defines the `Session` abstraction layer. Unifies Apple’s `LanguageModelSession` and MLX-based `ChatSession` APIs so that different LLMs can be queried through a single interface. Includes async response handling and optional system prompts. |
-| **`validity.swift`** | Implements `validityCheck()` and `improveResponse()`, which parse model outputs, verify that each category has exactly five unique exercises, detect duplicates, and generate concise corrective prompts for invalid responses. This forms the foundation of the **critique-and-revise** mechanism. |
+| [main.swift](main.swift) | Main file for running model comparisons. Builds prompt variants (minimal, normal, verbose) and initialises chat sessions with Apple SLM, Llama 3.2, and Gemma 2. Iteratively re-prompts models until a valid output is achieved or retries are exhausted. |
+| [llmclass.swift](llmclass.swift) | Defines the `Session` abstraction layer. Unifies Apple’s `LanguageModelSession` and MLX-based `ChatSession` APIs so that different LLMs can be queried through a single interface. Includes async response handling and optional system prompts. |
+| [validity.swift](validity.swift) | Implements `validityCheck()` and `improveResponse()`, which parse model outputs, verify that each category has exactly five unique exercises, detect duplicates, and generate concise corrective prompts for invalid responses. This forms the foundation of the **critique-and-revise** mechanism. |
 
 ---
 
