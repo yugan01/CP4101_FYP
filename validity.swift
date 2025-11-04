@@ -31,12 +31,7 @@ func validityCheck(_ response: String) -> (isValid: Bool,
         }
     }
 
-    // If model invented extra categories, note it (not strictly required, but useful)
-    if !parsed.extraCategories.isEmpty {
-        issues.append("unexpected categories: " + parsed.extraCategories.joined(separator: ", "))
-    }
-
-    // If duplicates were removed, surface that too
+    // duplicates
     if !parsed.duplicates.isEmpty {
         let d = parsed.duplicates
             .map { "\($0.key.rawValue): " + $0.value.joined(separator: ", ") }
@@ -56,12 +51,10 @@ func validityCheck(_ response: String) -> (isValid: Bool,
 func improveResponse(_ response: String) -> String {
     let check = validityCheck(response)
     if check.isValid { return "ok" }
-    // Keep message short & specific so the model can self-correct easily.
-    // Join multiple issues with "; " in one turn.
+
     return check.issues.joined(separator: "; ")
 }
 
-// MARK: - Internal parsing
 
 private enum Category: String, CaseIterable {
     case warmup, core, strength, cardio
@@ -86,23 +79,24 @@ private struct ParseResult {
 
 private func parseResponse(_ text: String) -> ParseResult {
 
-    // Prefer JSON first — handle a wide variety of shapes.
+    // JSON handler
     if let jsonResult = tryParseJSON(text) {
         return jsonResult
     }
 
-    // Fallback: Markdown/plain-text with headings and bullets/numbers.
+  
+
+    // plain text
     return parseHeadingsAndBullets(text)
 }
 
 private func tryParseJSON(_ text: String) -> ParseResult? {
-    // Find the first JSON object in the text (naive but robust for typical LLM replies).
+    // Find the first JSON object in the text
     guard let jsonRange = text.range(of: #"\{[\s\S]*\}"#, options: .regularExpression) else {
         return nil
     }
     let jsonSnippet = String(text[jsonRange])
 
-    // Try as [String: Any]
     guard let data = jsonSnippet.data(using: .utf8),
           let obj = try? JSONSerialization.jsonObject(with: data) as? [String: Any]
     else { return nil }
@@ -162,7 +156,7 @@ private func makeRegex(_ pattern: String,_ options:NSRegularExpression.Options =
 }
 
 
-// Reuse this in both JSON & text paths.
+// both JSON & text paths.
 private func isMetaOrFenceLine(_ s: String) -> Bool {
     let t = s.trimmingCharacters(in: .whitespacesAndNewlines)
     if t.isEmpty { return false }
@@ -209,7 +203,7 @@ private func parseHeadingsAndBullets(_ text: String) -> ParseResult {
     for rawLine in lines {
         let trimmed = rawLine.trimmingCharacters(in: .whitespacesAndNewlines)
         
-        // meta / fences
+        // meta or fences
         if isMetaOrFenceLine(trimmed) { continue }
         
         // blank-line handling
@@ -234,7 +228,7 @@ private func parseHeadingsAndBullets(_ text: String) -> ParseResult {
         }
         blankStreak = 0
         
-        // ignore setext underlines
+        // ignore underlines
         if trimmed.range(of: #"^[-=]{3,}$"#, options: .regularExpression) != nil { continue }
         
         // heading?
@@ -252,7 +246,7 @@ private func parseHeadingsAndBullets(_ text: String) -> ParseResult {
         // if no active section, ignore prose
         guard let cat = current else { continue }
         
-        // bullet?
+        // bullet
         if let m = bulletRE.firstMatch(in: rawLine, range: NSRange(location: 0, length: (rawLine as NSString).length)),
            let r = Range(m.range(at: 1), in: rawLine) {
             let candidate = cleanItem(String(rawLine[r]))
