@@ -51,11 +51,11 @@ The master exercise list itself is stored in `AppConstants.swift`, while the exe
 
 | File | Description |
 |------|-------------|
-| `100_baseline_llm_results.csv` | Baseline benchmarking results for Apple SLM, Llama 3.2, and Gemma 2. Stores per-trial metrics such as validity, retries needed, hallucination counts, token-limit failures, and duplicate counts. |
-| `2803_apple_vs_rag_results.csv` | Comparison results for **normal Apple SLM prompting** vs **Apple RAG prompting**. Stores the same metrics as the baseline benchmark. |
+| `baseline_llm_results.csv` | Baseline benchmarking results for Apple SLM, Llama 3.2, and Gemma 2. Stores per-trial metrics such as validity, retries needed, hallucination counts, token-limit failures, and duplicate counts. |
+| `apple_vs_rag_results.csv` | Comparison results for **normal Apple SLM prompting** vs **Apple RAG prompting**. Stores the same metrics as the baseline benchmark. |
 | `Appropriate exercises_Alif inputs 16032026.xlsx` | Clinician-labelled workbook containing yes/no appropriateness judgements for recommended exercises under different pain conditions. This file is used by the retagging pipeline. |
-| `tagged_exercises_all.json` | Base exercise tag database generated from deterministic biomechanical tagging before clinician-informed refinement. |
-| `retagging_2.json` | Refined exercise tag database after clinician-informed retagging and propagation of condition-specific avoidance tags. |
+| `final_tagged_exercises.json` | Base exercise tag database generated from deterministic biomechanical tagging before clinician-informed refinement. |
+| `HITL_retagged_exercises.json` | Refined exercise tag database after clinician-informed retagging and propagation of condition-specific avoidance tags. |
 
 ---
 
