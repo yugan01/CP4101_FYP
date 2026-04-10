@@ -1,0 +1,2733 @@
+{
+  "4 Corners Footwork" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Abdominal Crunch Ball Throw" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Abdominal Crunches with Rear Lunges" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "deep_knee_flexion",
+      "low_impact",
+      "lunge",
+      "shoulder_friendly"
+    ]
+  },
+  "Agility Ladder Circuit" : {
+    "categories" : [
+      "cardio"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Alternate Hand Leg with Vertical Jumps" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "core_stability",
+      "high_impact",
+      "jump",
+      "shoulder_friendly"
+    ]
+  },
+  "Alternate Hand and Leg" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Arm Circles" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "BOSU Sitting Cable Row" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "machine",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "Backward Running to Skipping" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "high_impact",
+      "jump",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Backward Runs to V-Shuffles" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Ball Overhead Wrist Flicks" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "overhead"
+    ]
+  },
+  "Base Rotation to Base Rotations Runs" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Bear Crawl Relay" : {
+    "categories" : [
+      "cardio"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Bear Crawling" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Bench Dips" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "upper_push"
+    ]
+  },
+  "Bicep Curl and Overhead Triceps Extension" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "overhead",
+      "upper_pull",
+      "upper_push"
+    ]
+  },
+  "Biceps Curl Shoulder Press with Step Board Jump" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "core_stability",
+      "high_impact",
+      "jump",
+      "overhead",
+      "upper_pull",
+      "upper_push"
+    ]
+  },
+  "Bicycle Machine" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "machine",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "Block on the Move" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Boat Pose to V-tuck" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Boat V-Tuck" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Burpees" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "high_impact",
+      "jump",
+      "shoulder_friendly"
+    ]
+  },
+  "Burpees and Big Cat" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "high_impact",
+      "jump",
+      "shoulder_friendly"
+    ]
+  },
+  "Burpees on the Move" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "high_impact",
+      "jump",
+      "shoulder_friendly"
+    ]
+  },
+  "Calf Raises" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Carioca" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "core_stability",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Chest Pass or Bounce Pass" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Chest Press and Standing Row" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "upper_pull",
+      "upper_push"
+    ]
+  },
+  "Clam Shell Left" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Clam Shell Right" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Compass Run" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Crosstrainer Machine" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "machine",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "Dance Aerobics Circuit: Diagonal Step to Star Step" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Dance Aerobics Circuit: Forward Step to Fist Pumps" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Dance Aerobics Circuit: Side Steps with Knocking" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Dance Aerobics Circuit: Single Arm Curl to Forward Step" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "Dance Aerobics Circuit: Single Arm Raises to Skating" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Dance Aerobics Circuit: Wide Step Cross Back Lunge" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "deep_knee_flexion",
+      "low_impact",
+      "lunge",
+      "shoulder_friendly"
+    ]
+  },
+  "Diagonal Step to Star Step" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Dips" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "upper_push"
+    ]
+  },
+  "Dribbling Forward and Backward" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Dumbbell Bicep Curl to High Knee Cross Touch with Jumping Jacks" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "core_stability",
+      "high_impact",
+      "jump",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "Dumbbell Biceps Curl" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "Dumbbell Calf Raises with Step Board Dips" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "upper_push"
+    ]
+  },
+  "Dumbbell Front Raises" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Dumbbell Side Raises" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Dumbbell Standing Row" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "Dumbbell Triceps Extension with Slow and Fast Jog" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "core_stability",
+      "high_impact",
+      "run",
+      "upper_push"
+    ]
+  },
+  "Dumbbell Upright Row" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "Eccentric Step Down Toe Touch" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "hinge",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Fast Foot Ladder" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Fast Foot Ladder Frontal" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "core_stability",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Fast Foot Ladder Lateral" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Fast Foot Ladder Laterals" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Figure 8 Dribbling Static or Dynamic" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Fitball Abdominal Crunch" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Fitball Ball Passes with Jumping Jacks" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "core_stability",
+      "high_impact",
+      "jump",
+      "shoulder_friendly"
+    ]
+  },
+  "Fitball Front Planks" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Fitball Hamstring Curls with Burpees" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "high_impact",
+      "jump",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "Fitball Reverse Bridge" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Fitball Roll Out" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Fitball Roll-out to Reverse Crunch" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Forward Runs to Backward Runs to Leg Swings" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Forward Runs to Side Shuffles" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Forward Step to Fist Pumps" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Forward Step to Reverse Wood Chop" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Front Lunges" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "deep_knee_flexion",
+      "low_impact",
+      "lunge",
+      "shoulder_friendly"
+    ]
+  },
+  "Front Plank to Plank Jumps" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "core_stability",
+      "high_impact",
+      "jump",
+      "shoulder_friendly"
+    ]
+  },
+  "Front Raise and Standing Reverse Fly" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Front Step Up" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Gallop, Hop, Slide, Skip" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "high_impact",
+      "jump",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Giant Wide Steps to Squat" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "deep_knee_flexion",
+      "low_impact",
+      "shoulder_friendly",
+      "squat"
+    ]
+  },
+  "Giant Wide Steps to Squat to Inchworm" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "deep_knee_flexion",
+      "low_impact",
+      "shoulder_friendly",
+      "squat"
+    ]
+  },
+  "HUR Adductor" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "machine",
+      "shoulder_friendly"
+    ]
+  },
+  "HUR Chest Press" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "machine",
+      "upper_push"
+    ]
+  },
+  "HUR Leg Curl" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "machine",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "HUR Leg Press" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "machine",
+      "upper_push"
+    ]
+  },
+  "HUR Pull Down" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "machine",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "HUR Push Up" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "machine",
+      "upper_push"
+    ]
+  },
+  "HUR Single Leg Press" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "knee_friendly",
+      "low_impact",
+      "machine",
+      "upper_push"
+    ]
+  },
+  "HUR Sitting Pull" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "machine",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "HUR Squat and Cable Row" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "deep_knee_flexion",
+      "low_impact",
+      "machine",
+      "shoulder_friendly",
+      "squat",
+      "upper_pull"
+    ]
+  },
+  "High Knee Cross Touch to Heel Walking" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "High Knee Cross Touch to Knee Hug to Quad Stretch" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "High Knee Cross Touch to Leg Swings (Front & Side)" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "High Knee Hurdle" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "machine",
+      "shoulder_friendly"
+    ]
+  },
+  "High Knee Marching (Correct Coordination, Forward & Backward Moving)" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "High Knee Runs with Dumbbell Side Raises" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "core_stability",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Hop Gallop Skip" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "high_impact",
+      "jump",
+      "shoulder_friendly"
+    ]
+  },
+  "Hop to Balance" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "high_impact",
+      "jump",
+      "shoulder_friendly"
+    ]
+  },
+  "Hop-Gallop-Skip Circuit" : {
+    "categories" : [
+      "cardio"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "high_impact",
+      "jump",
+      "shoulder_friendly"
+    ]
+  },
+  "Hopping to Galloping" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "high_impact",
+      "jump",
+      "shoulder_friendly"
+    ]
+  },
+  "In and Out Taps" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Incline Push Up with Slow and Fast Jog" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "high_impact",
+      "run",
+      "upper_push"
+    ]
+  },
+  "Interval Cycling" : {
+    "categories" : [
+      "cardio"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "machine",
+      "shoulder_friendly"
+    ]
+  },
+  "Isometric Push Up Hold" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "upper_push"
+    ]
+  },
+  "Jack Knife with Single Leg Half Squats" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "core_stability",
+      "deep_knee_flexion",
+      "low_impact",
+      "shoulder_friendly",
+      "squat"
+    ]
+  },
+  "Jog Sprint Intervals" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Jump Rope Intervals" : {
+    "categories" : [
+      "cardio"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "high_impact",
+      "jump",
+      "shoulder_friendly"
+    ]
+  },
+  "Jumping Jacks" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "high_impact",
+      "jump",
+      "shoulder_friendly"
+    ]
+  },
+  "Jumping Over Hurdle" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "high_impact",
+      "jump",
+      "machine",
+      "shoulder_friendly"
+    ]
+  },
+  "Knee Hugs to Quadriceps Stretch" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Knee Turn In to Reverse Lunge with Side Reach" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "deep_knee_flexion",
+      "low_impact",
+      "lunge",
+      "shoulder_friendly"
+    ]
+  },
+  "Knee Turn Ins & Outs to Reverse Lunge with Side Reach" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "deep_knee_flexion",
+      "low_impact",
+      "lunge",
+      "shoulder_friendly"
+    ]
+  },
+  "Ladder Runs Cone Touches" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Lateral Bounding" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "high_impact",
+      "jump",
+      "shoulder_friendly"
+    ]
+  },
+  "Lateral Bounding with Medicine Triceps Extension" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "core_stability",
+      "high_impact",
+      "jump",
+      "upper_push"
+    ]
+  },
+  "Lateral Hurdle" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "machine",
+      "shoulder_friendly"
+    ]
+  },
+  "Lateral Jump over Dome Marker" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "high_impact",
+      "jump",
+      "shoulder_friendly"
+    ]
+  },
+  "Lateral Mini Hops with SUMO Squats to Single Leg Balance" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "core_stability",
+      "deep_knee_flexion",
+      "high_impact",
+      "jump",
+      "shoulder_friendly",
+      "squat"
+    ]
+  },
+  "Lateral Mini-Hops to Carioca to Forward Runs" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "high_impact",
+      "jump",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Lateral Side Reach" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Lateral Step and Body Feint" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Leg Circles to High Skips to Side Skips Right" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Leg Circles to Low Skips to Side Skips Left" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Leg Curls" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "Leg Press" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "upper_push"
+    ]
+  },
+  "Leg Swings (Front & Side)" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Lunge Step and Back" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "deep_knee_flexion",
+      "low_impact",
+      "lunge",
+      "shoulder_friendly"
+    ]
+  },
+  "Lunge to Lift" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "deep_knee_flexion",
+      "low_impact",
+      "lunge",
+      "shoulder_friendly"
+    ]
+  },
+  "Lunge to Single Leg Balance and Hop with 5 Squats and 1 1 Jump" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "core_stability",
+      "deep_knee_flexion",
+      "high_impact",
+      "jump",
+      "lunge",
+      "shoulder_friendly",
+      "squat"
+    ]
+  },
+  "Lunge with Trunk Rotation and Marching" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "deep_knee_flexion",
+      "low_impact",
+      "lunge",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "Medicine Ball Bicep Curl" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "Medicine Ball Biceps Curl Shoulder with Bear Walking" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "Medicine Ball Chest Press" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "upper_push"
+    ]
+  },
+  "Medicine Ball Lunge Trunk Rotation" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "core_stability",
+      "deep_knee_flexion",
+      "low_impact",
+      "lunge",
+      "shoulder_friendly"
+    ]
+  },
+  "Medicine Ball Overhead Triceps Extension" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "overhead",
+      "upper_push"
+    ]
+  },
+  "Medicine Ball Slam with Forward Lunges" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "core_stability",
+      "deep_knee_flexion",
+      "low_impact",
+      "lunge",
+      "shoulder_friendly"
+    ]
+  },
+  "Medicine Ball Triceps Extension" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "upper_push"
+    ]
+  },
+  "Medicine Ball Trunk Rotation with Medicine Ball Slam" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Mini Split Jumps" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "deep_knee_flexion",
+      "high_impact",
+      "jump",
+      "lunge",
+      "shoulder_friendly"
+    ]
+  },
+  "Moderate Pace Rowing" : {
+    "categories" : [
+      "cardio"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "machine",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "Modified Multi Hip to Jumping" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "high_impact",
+      "jump",
+      "shoulder_friendly"
+    ]
+  },
+  "Multi Directional Hops with Dumbbell Upright Row" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "core_stability",
+      "high_impact",
+      "jump",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "Multi-Hip (Modified \/ Full) to 3-Point Calf Stretch" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Multi-Hip (Modified \/ Full) to 3-Point Stretch" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "On 4s Hip Flexion" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Pepper knees to Forward Runs" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Plank Jumps" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "core_stability",
+      "high_impact",
+      "jump",
+      "shoulder_friendly"
+    ]
+  },
+  "Plank Walk Out" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Plank to Push Ups with Torso Rotation" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "upper_push"
+    ]
+  },
+  "Prone Hip Extension Left" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "upper_push"
+    ]
+  },
+  "Prone Hip Extension Right" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "upper_push"
+    ]
+  },
+  "Pull Down" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "Push Up" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "upper_push"
+    ]
+  },
+  "Push Ups with Squat Jumps" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "core_stability",
+      "deep_knee_flexion",
+      "high_impact",
+      "jump",
+      "squat",
+      "upper_push"
+    ]
+  },
+  "Resistance Band Standing Row" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "Resistance Band Standing Row to High Knee Cross Touch with Jumping Jacks" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "core_stability",
+      "high_impact",
+      "jump",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "Resistance Band Upright Row with Slow and Fast Jog" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "core_stability",
+      "high_impact",
+      "run",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "Reverse Bridge Ball Chest Press" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "upper_push"
+    ]
+  },
+  "Reverse Bridge March" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Reverse Crunch" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Roach Legs with Scissor Jumps" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "core_stability",
+      "high_impact",
+      "jump",
+      "shoulder_friendly"
+    ]
+  },
+  "Rotational Abdominal Crunch" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Rowing Machine" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "machine",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "Rowing Machine Intervals" : {
+    "categories" : [
+      "cardio"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "machine",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "Running Butt Kickers" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Running to Sliding" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "SUMO Squat Calf Raises" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "deep_knee_flexion",
+      "low_impact",
+      "shoulder_friendly",
+      "squat"
+    ]
+  },
+  "SUMO Squat and Lateral Shuffles" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "deep_knee_flexion",
+      "high_impact",
+      "run",
+      "shoulder_friendly",
+      "squat"
+    ]
+  },
+  "SUMO Squat to High Knee Cross Touch with Jumping Jacks" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "core_stability",
+      "deep_knee_flexion",
+      "high_impact",
+      "jump",
+      "shoulder_friendly",
+      "squat"
+    ]
+  },
+  "SUMO Squats" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "deep_knee_flexion",
+      "low_impact",
+      "shoulder_friendly",
+      "squat"
+    ]
+  },
+  "Scapula Retraction and Protraction" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Seated Lower Body Stretches" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Shoulder Rotation" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Shoulder Rotator Cuffs" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Shuttle Run 20m" : {
+    "categories" : [
+      "cardio"
+    ],
+    "tags" : [
+      "bodyweight",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Shuttle Runs" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Shuttle Runs with Dumbbell Front Raises" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "core_stability",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Side Leg Raise Left" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Side Leg Raise Right" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Side Leg Raises" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Side Lunges" : {
+    "categories" : [
+      "strength",
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "deep_knee_flexion",
+      "low_impact",
+      "lunge",
+      "shoulder_friendly"
+    ]
+  },
+  "Side Plank (Left to Right)" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Side Shuffles" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Side Skipping" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "high_impact",
+      "jump",
+      "shoulder_friendly"
+    ]
+  },
+  "Side Slide Knee Touch" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Side Step Up to Single Leg Balance" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Side Steps with Knocking" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Single Arm Curl to Forward Step" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "Single Arm Raises to Skating" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Single Hand Dribbling Stationary" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Single Leg Balance Body Push" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "upper_push"
+    ]
+  },
+  "Single Leg Balance Reverse Bridge Left" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Single Leg Balance Reverse Bridge Right" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Single Leg Balance on Foam with Racket" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Single Leg Step Up with Medicine Ball Shoulder Press" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "knee_friendly",
+      "low_impact",
+      "overhead",
+      "upper_push"
+    ]
+  },
+  "Slides to V-Shuffles to Side Leg Swings" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Soccer Step On" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Soccer Step Over" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Sole Roll" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Space Cat Ball Taps" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Split Jumps" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "deep_knee_flexion",
+      "high_impact",
+      "jump",
+      "lunge",
+      "shoulder_friendly"
+    ]
+  },
+  "Square Drills (Quick Shuffle with Single Leg Balance)" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "core_stability",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Squat + Ball Chest Pass to Sprint" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "deep_knee_flexion",
+      "high_impact",
+      "run",
+      "shoulder_friendly",
+      "squat"
+    ]
+  },
+  "Squat Jumps" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "deep_knee_flexion",
+      "high_impact",
+      "jump",
+      "shoulder_friendly",
+      "squat"
+    ]
+  },
+  "Standing Broad Jump" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "high_impact",
+      "jump",
+      "shoulder_friendly"
+    ]
+  },
+  "Standing Leg Curls" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly",
+      "upper_pull"
+    ]
+  },
+  "Standing Side Leg Raise" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Standing Single Leg Clockwork to Plank Hip Abduction" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Steady State Cycling" : {
+    "categories" : [
+      "cardio"
+    ],
+    "tags" : [
+      "knee_friendly",
+      "low_impact",
+      "machine",
+      "shoulder_friendly"
+    ]
+  },
+  "Step Aerobics" : {
+    "categories" : [
+      "cardio"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Step Squat to Crawling" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "deep_knee_flexion",
+      "low_impact",
+      "shoulder_friendly",
+      "squat"
+    ]
+  },
+  "Step Tap" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Step Up to Single Leg Lunge" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "deep_knee_flexion",
+      "low_impact",
+      "lunge",
+      "shoulder_friendly"
+    ]
+  },
+  "Striding" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Supine Flutter Kick" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Supine Flutter Kick to Clam Shell" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Toe Raises" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Treadmill 1-min Easy \/ 1-min Fast" : {
+    "categories" : [
+      "cardio"
+    ],
+    "tags" : [
+      "high_impact",
+      "machine",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Treadmill 2-min Easy \/ 1-min Fast" : {
+    "categories" : [
+      "cardio"
+    ],
+    "tags" : [
+      "high_impact",
+      "machine",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Treadmill 3-min Easy \/ 1-min Fast" : {
+    "categories" : [
+      "cardio"
+    ],
+    "tags" : [
+      "high_impact",
+      "machine",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Treadmill Incline Walk" : {
+    "categories" : [
+      "cardio"
+    ],
+    "tags" : [
+      "high_impact",
+      "machine",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Triceps Dips" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "upper_push"
+    ]
+  },
+  "Trunk Bending Cross Toe Touches" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "hinge",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Trunk Rotation" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Trunk Rotational Ball Throw" : {
+    "categories" : [
+      "core"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Up and Go (Sitting or Lying Down)" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Upright Row and Shoulder Press" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "overhead",
+      "upper_pull",
+      "upper_push"
+    ]
+  },
+  "V-Shuffles with Flex Arm Hang" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "V-Sit Ball Bounce to Dumbbell Calf Raise" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Vertical Jumps on the Move" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "balance",
+      "bodyweight",
+      "core_stability",
+      "high_impact",
+      "jump",
+      "shoulder_friendly"
+    ]
+  },
+  "Walk & Scoop" : {
+    "categories" : [
+      "warmup"
+    ],
+    "tags" : [
+      "bodyweight",
+      "hinge",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Walking Lunges" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "deep_knee_flexion",
+      "low_impact",
+      "lunge",
+      "shoulder_friendly"
+    ]
+  },
+  "Wide Push Ups to Narrow Push Ups with Triceps Dips" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "knee_friendly",
+      "low_impact",
+      "upper_push"
+    ]
+  },
+  "Wide Step Calf Raise" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "knee_friendly",
+      "low_impact",
+      "shoulder_friendly"
+    ]
+  },
+  "Wide Step Calf Raise with Slow and Fast Jog" : {
+    "categories" : [
+      "core",
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "core_stability",
+      "high_impact",
+      "run",
+      "shoulder_friendly"
+    ]
+  },
+  "Wide Step Cross Back Lunge" : {
+    "categories" : [
+      "strength"
+    ],
+    "tags" : [
+      "bodyweight",
+      "deep_knee_flexion",
+      "low_impact",
+      "lunge",
+      "shoulder_friendly"
+    ]
+  }
+}
