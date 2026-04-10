@@ -149,7 +149,7 @@ func saveTaggedExercisesToJSON(categoryMap: [String: [String]]) throws -> URL {
     
     // 3. Save to Documents Directory
     let docs = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask).first!
-    let fileURL = docs.appendingPathComponent("tagged_exercises.json")
+    let fileURL = docs.appendingPathComponent("final_tagged_exercises.json")
     
     try data.write(to: fileURL, options: [.atomic])
     
