@@ -1,123 +1,9 @@
 //
 //  exerciseTagging.swift
-//  beta2
-//
-//  Created by admin on 11/2/26.
 //
 
 import Foundation
 
-//
-//// MARK: - 1. Data Models
-//struct ExerciseDetails: Codable {
-//    let categories: [String]
-//    let tags: [String]
-//}
-//
-//// MARK: - 2. Tagging Logic
-//class ExerciseTagger {
-//    
-//    // Define tags as string constants to avoid typos
-//    enum Tag: String {
-//        case lowImpact = "low_impact"
-//        case highImpact = "high_impact"
-//        case jump, run, lunge, squat, hinge
-//        case overhead, upperPush = "upper_push", upperPull = "upper_pull"
-//        case deepKneeFlexion = "deep_knee_flexion"
-//        case kneeFriendly = "knee_friendly"
-//        case shoulderFriendly = "shoulder_friendly"
-//        case coreStability = "core_stability"
-//        case balance
-//        case machine, bodyweight
-//    }
-//    
-//// Helper: Checks for whole words only (e.g. finds "run" but ignores "crunch")
-//    private static func hasWord(_ text: String, _ words: [String]) -> Bool {
-//        // \b matches a word boundary (start/end of word, space, punctuation)
-//        // This regex looks for: \b(word1|word2|word3)\b
-//        let pattern = "\\b(" + words.joined(separator: "|") + ")\\b"
-//        return text.range(of: pattern, options: [.regularExpression, .caseInsensitive]) != nil
-//    }
-//
-//    // Helper: Keep simple 'contains' for unique partials (like "extension" or "machine")
-//    private static func hasPart(_ text: String, _ part: String) -> Bool {
-//        return text.localizedCaseInsensitiveContains(part)
-//    }
-//    
-//    static func generateTags(for name: String, categories: [String]) -> [String] {
-//        var tags = Set<String>()
-//        // Note: Regex is case-insensitive, so we don't strictly need lowerName for hasWord,
-//        // but it helps for manual logic.
-//        let lowerName = name.lowercased()
-//        let cats = categories.map { $0.lowercased() }
-//        
-//        // --- 1. MOVEMENT PATTERNS (Using Whole Word Matching) ---
-//        // Fixes: "Crunch" != "Run", "Throw" != "Row", "Chop" != "Hop"
-//        
-//        let isRun  = hasWord(name, ["run", "runs", "running", "sprint", "sprints", "jog", "jogging", "shuttle"])
-//        let isJump = hasWord(name, ["jump", "jumps", "jumping", "hop", "hops", "hopping", "bound", "bounding", "skip", "skipping", "gallop", "burpee", "burpees"])
-//        let isRow  = hasWord(name, ["row", "rows", "rowing"])
-//        
-//        if isRun { tags.insert(Tag.run.rawValue) }
-//        if isJump { tags.insert(Tag.jump.rawValue) }
-//        
-//        // Lunge/Squat/Hinge usually don't have substring conflicts, simpler checks are fine
-//        if hasPart(name, "lunge") || hasPart(name, "split") { tags.insert(Tag.lunge.rawValue) }
-//        if hasPart(name, "squat") || hasPart(name, "sit") || hasPart(name, "chair") { tags.insert(Tag.squat.rawValue) }
-//        if hasPart(name, "deadlift") || hasPart(name, "hinge") || hasPart(name, "scoop") || hasPart(name, "toe touch") { tags.insert(Tag.hinge.rawValue) }
-//        
-//        // --- 2. IMPACT ---
-//        // Only tag high impact if we explicitly found a jump or run keyword
-//        if isRun || isJump {
-//            tags.insert(Tag.highImpact.rawValue)
-//        } else {
-//            tags.insert(Tag.lowImpact.rawValue)
-//        }
-//        
-//        // --- 3. UPPER BODY ---
-//        // Push
-//        if hasPart(name, "press") || hasPart(name, "push") || hasPart(name, "dip") || hasPart(name, "extension") {
-//            tags.insert(Tag.upperPush.rawValue)
-//        }
-//        // Pull (Fixes "Ball Throw" issue)
-//        if isRow || hasPart(name, "pull") || hasPart(name, "curl") || hasPart(name, "chin") {
-//            tags.insert(Tag.upperPull.rawValue)
-//        }
-//        // Overhead
-//        if hasPart(name, "overhead") || hasPart(name, "shoulder press") {
-//            tags.insert(Tag.overhead.rawValue)
-//        }
-//        
-//        // --- 4. JOINTS ---
-//        if tags.contains(Tag.squat.rawValue) || tags.contains(Tag.lunge.rawValue) || hasPart(name, "deep") {
-//            tags.insert(Tag.deepKneeFlexion.rawValue)
-//        } else if !tags.contains(Tag.highImpact.rawValue) {
-//            tags.insert(Tag.kneeFriendly.rawValue)
-//        }
-//        
-//        if !tags.contains(Tag.overhead.rawValue) && !tags.contains(Tag.upperPush.rawValue) {
-//            tags.insert(Tag.shoulderFriendly.rawValue)
-//        }
-//        
-//        // --- 5. EQUIPMENT ---
-//        if (hasPart(name, "machine") || hasPart(name, "hur") || hasPart(name, "cable")) && !hasPart(name, "dumbbell") {
-//             tags.insert(Tag.machine.rawValue)
-//        } else if !hasPart(name, "dumbbell") && !hasPart(name, "medicine") && !hasPart(name, "band") && !hasPart(name, "racket") {
-//            tags.insert(Tag.bodyweight.rawValue)
-//        }
-//        
-//        // --- 6. CORE & BALANCE ---
-//        if hasPart(name, "plank") || hasPart(name, "crunch") || hasPart(name, "rotation") || cats.contains("core") {
-//            tags.insert(Tag.coreStability.rawValue)
-//        }
-//        if hasPart(name, "single leg") || hasPart(name, "balance") || (isJump && !hasPart(name, "burpee")) {
-//            // Jumps (hops) often require balance, burpees less so
-//            tags.insert(Tag.balance.rawValue)
-//        }
-//        
-//        return tags.sorted()
-//    }
-//}
 
 struct ExerciseDetails: Codable {
     let categories: [String]
@@ -246,8 +132,6 @@ final class ExerciseTagger {
 
 
 
-
-// MARK: - 3. Save Function
 func saveTaggedExercisesToJSON(categoryMap: [String: [String]]) throws -> URL {
     // 1. Transform the Map into a List of Objects
     var resultMap: [String: ExerciseDetails] = [:]
@@ -265,7 +149,7 @@ func saveTaggedExercisesToJSON(categoryMap: [String: [String]]) throws -> URL {
     
     // 3. Save to Documents Directory
     let docs = FileManager.default.urls(for: .documentDirectory, in: .userDomainMask).first!
-    let fileURL = docs.appendingPathComponent("tagged_exercises_all.json")
+    let fileURL = docs.appendingPathComponent("tagged_exercises.json")
     
     try data.write(to: fileURL, options: [.atomic])
     
